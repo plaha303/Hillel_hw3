@@ -1,1 +1,2 @@
 this is first string
+second string in feature1
